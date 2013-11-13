@@ -1,0 +1,28 @@
+{
+  "name": "mp3",
+  "version": "0.0.0",
+  "description": "Play mp3s in node",
+  "main": "index.js",
+  "dependencies": {
+    "lame": "~1.0.3",
+    "speaker": "0.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chieffancypants/node-mp3.git"
+  },
+  "keywords": [
+    "mp3",
+    "sound",
+    "sounds"
+  ],
+  "author": "chieffancypants",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chieffancypants/node-mp3/issues"
+  }
+}
