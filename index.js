@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var fs      = require('fs'),
     lame    = require('lame'),
     Speaker = require('speaker');
